@@ -16,6 +16,10 @@
                <name type="person" ref="http://syriaca.org/person.xml#dschwartz">Daniel L. Schwartz</name>
             </respStmt>
             <respStmt>
+               <resp>OCR editing and metadata added by</resp>
+               <name type="person" ref="http://syriaca.org/person.xml#dschwartz">Daniel L. Schwartz</name>
+            </respStmt>
+            <respStmt>
                <resp>Based on the work of</resp>
                <name type="person" ref="http://syriaca.org/person.xml#ewbrooks">E. W. Brooks</name>
             </respStmt>
